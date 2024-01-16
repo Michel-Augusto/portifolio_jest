@@ -8,9 +8,7 @@ npm 17.*+
 
 ### 🔧 Instalação
 
-
 ```
-clonar o projeto
 npm install -d
 ```
 
@@ -21,8 +19,6 @@ npm test
 ```
 
 ## 🛠️ Construído com
-
-Mencione as ferramentas que você usou para criar seu projeto
 
 * [Jest](https://jestjs.io/)
 * [Axios](https://axios-http.com/)
